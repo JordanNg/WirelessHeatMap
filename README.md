@@ -9,6 +9,6 @@ This will walk you through the requirements to install Django onto your system a
 
 After verifying that you have Django installed, clone our repo to your system
 
-git clone https://github.com/JordanNg/WirelessHeatMap.git
+```git clone https://github.com/JordanNg/WirelessHeatMap.git```
 
 In order to host a site you need to be in a virtual enviornment, to do so...
