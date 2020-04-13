@@ -11,4 +11,10 @@ After verifying that you have Django installed, clone our repo to your system
 
 ```git clone https://github.com/JordanNg/WirelessHeatMap.git```
 
-In order to host a site you need to be in a virtual enviornment, to do so...
+In order to host a site you need to be in a virtual enviornment. To do this use the command
+
+```source <virtual_enviornment>/bin/activate```
+
+Then navigate to the newly cloned repo and in the same directory as manage.py, us the command
+
+```python manage.py runserver <IP_Address>:<port_#>```
