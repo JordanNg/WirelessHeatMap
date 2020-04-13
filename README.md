@@ -6,6 +6,8 @@ To install and run our project, please install the latest version of Django foun
 https://docs.djangoproject.com/en/3.0/intro/install/
 
 This will walk you through the requirements to install Django onto your system and will also require installation of the latest version of Python.
+Here is a list of current Python versions that can be used with Django:
+https://docs.djangoproject.com/en/3.0/faq/install/#faq-python-version-support
 
 After verifying that you have Django installed, clone our repo to your system
 
