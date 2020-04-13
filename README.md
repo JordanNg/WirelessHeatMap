@@ -19,6 +19,6 @@ Then navigate to the newly cloned repo and in the same directory as manage.py, u
 
 ```python manage.py runserver <IP_Address>:<port_#>```
 
-This should host the site on the designated port at 
+You should then be able to view the hosted site in your browser at
 
 ```<IP_Address>:<Port>/buildings```
