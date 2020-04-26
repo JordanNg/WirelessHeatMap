@@ -14,7 +14,7 @@ In order to host a site you need to be in the virtual enviornment you created. T
 
 ```source <virtual_enviornment>/bin/activate```
 
-You will then need to ensure that the correct dependencies are installed in the venv by using the command
+You will then need to ensure that the correct dependencies are installed. Do this by navigating to the newly cloned repo and using the command
 
 ```pip install -r dependencies.txt```
 
